@@ -1,5 +1,6 @@
 [
   {
+    "kelas": "7",
     "nomor": "1",
     "mapel": "Quran Hadis",
     "hari_ujian": "Senin, 6 Juli 2026",
@@ -7,14 +8,16 @@
     "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=drive_link"
   },
   {
-    "nomor": "2",
+    "kelas": "8",
+    "nomor": "1",
     "mapel": "Fiqih",
     "hari_ujian": "Senin, 6 Juli 2026",
-    "ujian_ke": "2",
+    "ujian_ke": "1",
     "url": "https://drive.google.com/file/d/1r67jkgwzu-C8eac_jLnwXxhc95g6AS_1/view?usp=sharing"
   },
   {
-    "nomor": "3",
+    "kelas": "9",
+    "nomor": "1",
     "mapel": "Bahasa Arab",
     "hari_ujian": "Selasa, 7 Juli 2026",
     "ujian_ke": "1",
