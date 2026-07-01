@@ -1,7 +1,17 @@
 [
-  { 
+  {
     "nomor": "1",
     "mapel": "Quran Hadis",
-    "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=drive_link"
+  },
+  {
+    "nomor": "2",
+    "mapel": "Fiqih",
+    "url": "https://drive.google.com/file/d/1r67jkgwzu-C8eac_jLnwXxhc95g6AS_1/view?usp=sharing"
+  },
+  {
+    "nomor": "3",
+    "mapel": "Bahasa Arab",
+    "url": "https://drive.google.com/file/d/1KqyFudrXqavXp7JNy8-6SL4iLKS7XOGV/view?usp=sharing"
   }
 ]
