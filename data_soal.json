@@ -2,25 +2,361 @@
   {
     "kelas": "7",
     "nomor": "1",
-    "mapel": "Quran Hadis",
-    "hari_ujian": "Senin, 6 Juli 2026",
+    "mapel": "BHS. INDONESIA",
+    "hari_ujian": "Rabu, 26 November 2025",
     "ujian_ke": "1",
-    "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=drive_link"
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "2",
+    "mapel": "QURAN HADIST",
+    "hari_ujian": "Rabu, 26 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "3",
+    "mapel": "IPA",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "4",
+    "mapel": "FIQIH",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "5",
+    "mapel": "MATEMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "6",
+    "mapel": "INFORMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "7",
+    "mapel": "BHS. INGGRIS",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "8",
+    "mapel": "AKIDAH AKHLAK",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "9",
+    "mapel": "IPS",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "10",
+    "mapel": "SKI",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "11",
+    "mapel": "BAHASA ARAB",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "12",
+    "mapel": "PPKn",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "13",
+    "mapel": "PENJAS",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "14",
+    "mapel": "SENI BUDAYA",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "7",
+    "nomor": "15",
+    "mapel": "MULOK (Ke NU an)",
+    "hari_ujian": "Kamis, 04 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
   },
   {
     "kelas": "8",
     "nomor": "1",
-    "mapel": "Fiqih",
-    "hari_ujian": "Senin, 6 Juli 2026",
+    "mapel": "BHS. INDONESIA",
+    "hari_ujian": "Rabu, 26 November 2025",
     "ujian_ke": "1",
-    "url": "https://drive.google.com/file/d/1r67jkgwzu-C8eac_jLnwXxhc95g6AS_1/view?usp=sharing"
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "2",
+    "mapel": "QURAN HADIST",
+    "hari_ujian": "Rabu, 26 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "3",
+    "mapel": "IPA",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "4",
+    "mapel": "FIQIH",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "5",
+    "mapel": "MATEMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "6",
+    "mapel": "INFORMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "7",
+    "mapel": "BHS. INGGRIS",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "8",
+    "mapel": "AKIDAH AKHLAK",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "9",
+    "mapel": "IPS",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "10",
+    "mapel": "SKI",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "11",
+    "mapel": "BAHASA ARAB",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "12",
+    "mapel": "PPKn",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "13",
+    "mapel": "PENJAS",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "14",
+    "mapel": "SENI BUDAYA",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "8",
+    "nomor": "15",
+    "mapel": "MULOK (Ke NU an)",
+    "hari_ujian": "Kamis, 04 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
   },
   {
     "kelas": "9",
     "nomor": "1",
-    "mapel": "Bahasa Arab",
-    "hari_ujian": "Selasa, 7 Juli 2026",
+    "mapel": "BHS. INDONESIA",
+    "hari_ujian": "Rabu, 26 November 2025",
     "ujian_ke": "1",
-    "url": "https://drive.google.com/file/d/1KqyFudrXqavXp7JNy8-6SL4iLKS7XOGV/view?usp=sharing"
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "2",
+    "mapel": "QURAN HADIST",
+    "hari_ujian": "Rabu, 26 November 2025",
+    "ujian_ke": "2",
+    "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=drive_link"
+  },
+  {
+    "kelas": "9",
+    "nomor": "3",
+    "mapel": "IPA",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "4",
+    "mapel": "FIQIH",
+    "hari_ujian": "Kamis, 27 November 2025",
+    "ujian_ke": "2",
+    "url": "https://drive.google.com/file/d/1r67jkgwzu-C8eac_jLnwXxhc95g6AS_1/view?usp=drive_link"
+  },
+  {
+    "kelas": "9",
+    "nomor": "5",
+    "mapel": "MATEMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "6",
+    "mapel": "INFORMATIKA",
+    "hari_ujian": "Jum'at, 28 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "7",
+    "mapel": "BHS. INGGRIS",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "8",
+    "mapel": "AKIDAH AKHLAK",
+    "hari_ujian": "Sabtu, 29 November 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "9",
+    "mapel": "IPS",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "10",
+    "mapel": "SKI",
+    "hari_ujian": "Senin, 01 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "11",
+    "mapel": "BAHASA ARAB",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "1",
+    "url": "https://drive.google.com/file/d/1KqyFudrXqavXp7JNy8-6SL4iLKS7XOGV/view?usp=drive_link"
+  },
+  {
+    "kelas": "9",
+    "nomor": "12",
+    "mapel": "PPKn",
+    "hari_ujian": "Selasa, 02 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "13",
+    "mapel": "PENJAS",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "14",
+    "mapel": "SENI BUDAYA",
+    "hari_ujian": "Rabu, 03 Desember 2025",
+    "ujian_ke": "2",
+    "url": ""
+  },
+  {
+    "kelas": "9",
+    "nomor": "15",
+    "mapel": "MULOK (Ke NU an)",
+    "hari_ujian": "Kamis, 04 Desember 2025",
+    "ujian_ke": "1",
+    "url": ""
   }
 ]
