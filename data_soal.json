@@ -11,7 +11,7 @@
   {
     "kelas": "7",
     "nomor": "2",
-    "mapel": "QURAN HADIST",
+    "mapel": "QURAN HADIST (kls 7)",
     "hari_ujian": "Jum'at, 03 Juli 2026",
     "waktu_ujian": "2026-07-03 18:28:00",
     "ujian_ke": "2",
@@ -146,7 +146,7 @@
   {
     "kelas": "8",
     "nomor": "2",
-    "mapel": "QURAN HADIST",
+    "mapel": "QURAN HADIST (kls 8)",
     "hari_ujian": "Rabu, 26 November 2025",
     "waktu_ujian": "2025-11-26 09:30:00",
     "ujian_ke": "2",
@@ -281,9 +281,9 @@
   {
     "kelas": "9",
     "nomor": "2",
-    "mapel": "QURAN HADIST",
-    "hari_ujian": "Rabu, 26 November 2025",
-    "waktu_ujian": "2025-11-26 09:30:00",
+    "mapel": "QURAN HADIST (kls 9)",
+    "hari_ujian": "Jum'at, 03 Juli 2026",
+    "waktu_ujian": "2026-07-03 18:30:00",
     "ujian_ke": "2",
     "url": "https://drive.google.com/file/d/1136NNgk7r4a_6EmUepCXb2BiHuu_mCM9/view?usp=drive_link"
   },
